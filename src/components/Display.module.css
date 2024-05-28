@@ -1,0 +1,9 @@
+.display {
+  margin: 10px;
+  width: 200px;
+  font-size: 25px;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid cyan;
+  height: 40px;
+}
